@@ -2,8 +2,8 @@
 
 -------
 
-### Olá, meu nome é Siderley .🤠
-### Curso Análise e Desenvolvimento de Sistemas.
+### Hello, my name is Siderley.🤠
+### I am a Systems Analysis and Development student.
 
 -------
 
