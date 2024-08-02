@@ -1,8 +1,8 @@
-<h1>Welcome to my repo!</h1>
+<h1>Hello, my name is Siderley.!</h1>
 
 -------
 
-### Hello, my name is Siderley.🤠
+### 🤠
 ### I am a Systems Analysis and Development student.
 
 -------
